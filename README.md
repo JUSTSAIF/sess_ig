@@ -1,3 +1,3 @@
 # sess_ig
 Get IG Acc Session IG 
-###### by Flutter/Dart
+###### Flutter/Dart App
