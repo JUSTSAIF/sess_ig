@@ -3,7 +3,11 @@ Get IG Acc Session IG
 
 
 
-<img src="https://github.com/JUSTSAIF/sess_ig/blob/main/sc.gif?raw=true" width="500"/>
+<img src="" width="500"/>
 
+<p align="center">
+    <br/><br/>
+    <img src="sc.gif" width="700" />
+<p/>
 
 ###### Flutter/Dart App
